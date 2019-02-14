@@ -1,0 +1,5 @@
+Xanthos (9,8) Horizontal
+Patara (3,6) Vertical
+Myra (22,2) Horizontal
+Arycanda (8,22) Vertical
+Phaselis (32,4) Horizontal
